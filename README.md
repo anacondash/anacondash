@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋我是anacondash，我要成为斩断循环的人
+---
+还有
+**我还活着，只是，为了找到失落之物**
 
 <!--
 **anacondash/anacondash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
